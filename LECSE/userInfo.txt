@@ -1,0 +1,4 @@
+CS332,Sigrid Sandstrom
+SE300,Keith Garfield
+COM219,David Keck
+COM221,Esbjorn Sandstrom

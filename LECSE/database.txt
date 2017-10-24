@@ -1,0 +1,3 @@
+David Keck,COM219,Lecture4,null,null,null,null
+Sigrid Sandstrom,CS332,Lecture1,null,null,null,null
+Esbjorn Sandstrom,COM221,Lecture6,null,null,null,null
